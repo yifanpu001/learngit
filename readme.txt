@@ -1,4 +1,3 @@
 Git is a distributed version control system.
-Git is free software.
-Owned by yifan pu.
+Git is free software distributed under the GPL.
 change again.
